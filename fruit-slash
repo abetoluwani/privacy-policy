@@ -1,0 +1,44 @@
+# Privacy Policy for Fruit Slash
+
+**Last Updated: April 29, 2026**
+
+Fruit Slash ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and disclose your information when you play our mobile game, **Fruit Slash**.
+
+## 1. Information We Collect
+
+### 1.1 Personal Data
+We **do not collect** any personal information that can identify you, such as your name, email address, phone number, or physical address.
+
+### 1.2 Non-Personal Data
+Our game may automatically collect certain non-personal information to improve gameplay and app performance, including:
+- Device type and model.
+- Operating system version.
+- App performance data (e.g., crash logs).
+- High scores and game progress (stored locally on your device).
+
+## 2. Use of Your Information
+The information we collect is used solely for the following purposes:
+- To provide and maintain the game.
+- To improve and personalize your gaming experience.
+- To monitor and analyze usage and trends to improve the game's performance.
+
+## 3. Third-Party Services
+Fruit Slash is built using the **Flutter** framework and the **Flame** engine. While we do not collect data directly, your device's operating system (Android/iOS) may collect standard analytical data. We do not currently use any third-party analytics or advertising services (such as Firebase or AdMob) that track user behavior.
+
+## 4. Children's Privacy
+Our game is intended for users of all ages. We do not knowingly collect personal information from children under the age of 13. If you believe that we have accidentally collected information from a child under 13, please contact us immediately.
+
+## 5. Data Security
+Since we do not collect personal data, your information is primarily stored on your own device. We recommend that you keep your device's operating system updated to ensure the best security for your local data.
+
+## 6. Your Data Rights
+If you wish to delete all game data (such as high scores), you can do so by uninstalling the app or clearing the app cache in your device settings.
+
+## 7. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
+
+## 8. Contact Us
+If you have any questions about this Privacy Policy, you can contact us at:
+
+**Developer Name:** Abetoluwani
+**Email:** [Your Email Address]
